@@ -5,7 +5,7 @@
   <a href=https://www.linkedin.com/in/dor-idan-14254a21b/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href=https://auth.geeksforgeeks.org/user/dorhazak111/profile>
+  <a href= https://leetcode.com/Dor26Idan/>
     <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Geeks4geeks Badge"/>
   </a>
 </div>
@@ -21,7 +21,7 @@
 I'm a 3'rd year Computer Science student in the Open University of Israel 
 
 - 👀: I’m very interested in Software Development and Software Security
-- :zap: In my free time, I solve problems on GeeksforGeeks and enriches my knowledge with the help of social media courses like GeeksforGeeks and campus IL
+- :zap: In my free time, I solve problems on Leetcode and enriches my knowledge with the help of social media courses like TryHackMe and campus IL
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dor2602-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dor-idan-14254a21b/))
 ### :hammer_and_wrench: Languages and Tools :
 <div>
