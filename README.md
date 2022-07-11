@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href= https://leetcode.com/Dor26Idan/>
-    <img src="https://img.shields.io/badge/Leetcode-green?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
 <h1 align="center">
